@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SignUpPage</string>
+    <string name="usertypeEt">userType</string>
+    <string name="name_Et">Name</string>
+    <string name="id_Et">ID</string>
+    <string name="email_Et">Email</string>
+    <string name="password_Et">Password</string>
+    <string name="confirm_password_Et">Confirm Password</string>
+
+
+</resources>
